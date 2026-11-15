@@ -1,5 +1,9 @@
 # 💻 LAPTOPIQ – AI-Powered Laptop Price Prediction
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20App-success?style=for-the-badge)](https://laptop-price-predictor-cqyfua5sucwc5hmnxwwuan.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
 **LAPTOPIQ** is a Deep Learning-based Laptop Price Prediction System that estimates laptop prices based on hardware specifications such as brand, processor, RAM, GPU, storage, screen size, weight, and operating system.
 
 Built using Python, TensorFlow, and Streamlit, this project provides an interactive and modern web interface where users can configure laptop specifications and instantly receive an estimated price.
